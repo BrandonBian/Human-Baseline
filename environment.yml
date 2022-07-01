@@ -1,0 +1,11 @@
+name: human_baseline
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - meshplot
+  - igl
+  - pandas
+  - networkx
+
