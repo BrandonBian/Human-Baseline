@@ -16,3 +16,8 @@ conda env create -f environment.yml
 ```
 conda activate human_baseline
 ```
+- Step 6: open the UI
+```
+cd UI
+jupyter notebook
+```
