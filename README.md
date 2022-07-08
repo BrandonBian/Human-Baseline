@@ -1,6 +1,8 @@
 # Human-Baseline
 For the ARCS-material-gnn project
 
+![Labeling template example](example-template.png)
+
 ## Set-up
 - Step 0: clone this repository
 ```
